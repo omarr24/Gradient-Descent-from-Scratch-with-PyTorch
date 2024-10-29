@@ -16,6 +16,6 @@ This repository provides a hands-on, from-scratch implementation of gradient des
 
 ## Getting Started
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/gradient-descent-from-scratch.git
